@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ListView Example</string>
+    <string-array name="flavours">
+        <item>Vanilla</item>
+        <item>Chocolate</item>
+        <item>Strawberry</item>
+        <item>Butter Scotch</item>
+        <item>Black Currant</item>
+        <item>Mango</item>
+        <item>Huckle Berry</item>
+        <item>Black Forest</item>
+    </string-array>
+</resources>
